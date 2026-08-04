@@ -1,0 +1,9 @@
+{
+  "theme": "default",
+  "themeVariables": {
+    "fontFamily": "DejaVu Sans",
+    "primaryColor": "#E1F5EE",
+    "primaryBorderColor": "#0F6E56",
+    "lineColor": "#333333"
+  }
+}
