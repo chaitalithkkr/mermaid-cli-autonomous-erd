@@ -1,1 +1,1 @@
-# mermaid-cli-autonomour-erd
+# mermaid-cli-autonomous-erd
